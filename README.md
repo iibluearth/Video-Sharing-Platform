@@ -21,7 +21,7 @@
 
 - This is the frontend (Presentation Layer) where users interact, view, upload, and like videos
 
-  <h3> Uploading the Video </h3>
+<h3> Uploading the Video </h3>
 
   - Videos are uploaded directly to cloud storage.
   - Why Object Storage? It's scalable, cost-efficient, and great for storing large media files.
